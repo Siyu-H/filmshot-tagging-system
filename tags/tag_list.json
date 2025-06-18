@@ -1,0 +1,43 @@
+{
+    "Number of People": [
+      "1 person",
+      "2 people",
+      "3 or more people"
+    ],
+    "Composition Structure": [
+      "balanced",
+      "symmetrical",
+      "asymmetrical"
+    ],
+    "Subject Position": [
+      "left",
+      "center",
+      "right"
+    ],
+    "Viewpoint Type": [
+      "frontal",
+      "profile",
+      "over-the-shoulder"
+    ],
+    "Camera Distance": [
+      "close-up",
+      "medium shot",
+      "long shot"
+    ],
+    "Visual Motion": [
+      "static",
+      "moving",
+      "zooming"
+    ],
+    "Relational Expression": [
+      "arguing",
+      "laughing",
+      "hugging",
+      "ignoring",
+      "tense",
+      "affectionate",
+      "cooperative",
+      "hostile"
+    ]
+  }
+  
